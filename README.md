@@ -2,7 +2,7 @@
 
 **Plant Disease Detection in Apple Leaves using U-Net**
 
-This repository contains the implementation of a U-Net and Resnet architectures for the task of plant disease detection in apple leaves. The U-Net model is designed for multi-class classification, where it classifies each pixel in an input image into one of the 12 disease classes. This README provides an overview of the project, model architecture, usage instructions, and other relevant information.
+This repository contains the implementation of a U-Net and Resnet architectures for the task of plant disease detection in apple leaves. The U-Net model is designed for multi-class classification, where it classifies each pixel in an input image into one of the 12 disease classes.
 
 **Project Overview**
 
